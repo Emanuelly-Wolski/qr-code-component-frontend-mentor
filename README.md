@@ -12,7 +12,7 @@ Desenvolver uma aplicação web mais próxima possível do design disponibilizad
 - Padding;
 - Margin;
 - Border;
-- Links
+- Links;
 - Importação de fontes;
 - Criação de variáveis para cores;
 - Planejamento e análise da estrutura do projeto;
