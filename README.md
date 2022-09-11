@@ -18,7 +18,7 @@ Desenvolver uma aplicação web mais próxima possível do design disponibilizad
 - Planejamento e análise da estrutura do projeto;
 
 ## Análise da estrutura do projeto:
-Aqui pode-se ver a forma que dividi a estrutura do projeto antes de começar a programar. Inicialmente criei uma div main que engloba todo o componente (vermelho), em seguida criei outra div para receber a imagem (verde), por fim, a última div que recebe o título e o parágrafo dentro do card (amarelo).
+Aqui pode-se ver a forma que dividi a estrutura do projeto antes de começar a programar. Inicialmente criei uma div main que engloba todo o componente (marcação em vermelho), em seguida criei outra div para receber a imagem (marcação em verde), por fim, a última div que recebe o título e o parágrafo dentro do card (marcação em amarelo).
 
 [<img src="design\mobile-design.jpg" alt="planejamento da estrutura" height="350px" width="200px">]
 
