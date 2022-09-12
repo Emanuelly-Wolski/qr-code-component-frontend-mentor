@@ -37,5 +37,5 @@ Ao baixar o arquivo zip do site do Frontend Mentor encontramos um diretório "de
 ## Vizualização ✨
 [<img src="./projeto-finalizado.png" alt="imagem do site">]
 
-## Link para você acessar em seu próprio dispositivo:
+## Link para você acessar em seu próprio dispositivo 🔎
 https://emanuelly-wolski.github.io/qr-code-component-frontend-mentor/
